@@ -1,0 +1,19 @@
+.error {
+  color: white;
+}
+
+label {
+  font-size: large;
+  color: white;
+  
+}
+
+.overlay {
+  padding-left: 1175px;
+  padding-top: 175px;
+}
+
+.navbar-brand{
+  font-size: x-large;
+}
+
